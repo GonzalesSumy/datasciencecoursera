@@ -1,2 +1,1 @@
-## This is a markdown file
-:earth_americas:
+## This is a markdown file :earth_americas:
